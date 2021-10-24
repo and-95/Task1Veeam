@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\bin\Debug\netcoreapp3.1\TeatApp.exe
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\bin\Debug\netcoreapp3.1\TeatApp.deps.json
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\bin\Debug\netcoreapp3.1\TeatApp.runtimeconfig.json
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\bin\Debug\netcoreapp3.1\TeatApp.runtimeconfig.dev.json
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\bin\Debug\netcoreapp3.1\TeatApp.dll
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\bin\Debug\netcoreapp3.1\TeatApp.pdb
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\obj\Debug\netcoreapp3.1\TeatApp.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\obj\Debug\netcoreapp3.1\TeatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\obj\Debug\netcoreapp3.1\TeatApp.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\obj\Debug\netcoreapp3.1\TeatApp.AssemblyInfo.cs
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\obj\Debug\netcoreapp3.1\TeatApp.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\obj\Debug\netcoreapp3.1\TeatApp.dll
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\obj\Debug\netcoreapp3.1\TeatApp.pdb
+C:\Users\1\Desktop\VSprojects\TeatApp\TeatApp\TeatApp\obj\Debug\netcoreapp3.1\TeatApp.genruntimeconfig.cache
